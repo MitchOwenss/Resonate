@@ -4,6 +4,7 @@ A personal vocal coach that runs in the browser. It tracks your pitch live throu
 
 ## Features
 - **Live pitch tracking** (YIN algorithm): a scrolling pitch graph, a target band and a cents meter showing how flat or sharp you are
+- **Liquid glass interface**: Studio dashboard, learning path, Library of singing concepts, and a Learn → Practise → Review flow for every lesson, with motion throughout
 - **Curriculum**
   - Beginner: breathing, hiss support, range finder, pitch matching, 5-note scale, sirens, steady notes, higher/lower ear test
   - Intermediate: major scale, arpeggios, thirds, interval ear training, octave sirens, steady sustain, singing a tune back from memory
